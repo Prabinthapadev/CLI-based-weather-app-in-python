@@ -70,4 +70,4 @@ Humidity: 65%
 
 📜 License
 
-This project is licensed under the MIT License - you are free to use and modify it.
+This project is licensed under the Apache License - you are free to use and modify it.
